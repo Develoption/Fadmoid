@@ -1,2 +1,2 @@
-# fadmoid
+# Fadmoid
 Fadmoid Apps Market
